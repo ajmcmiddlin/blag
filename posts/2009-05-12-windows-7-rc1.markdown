@@ -1,0 +1,29 @@
+---
+author: Andrew
+comments: true
+date: 2009-05-12 13:09:01+00:00
+layout: post
+link: http://ajmccluskey.com/2009/05/windows-7-rc1/
+slug: windows-7-rc1
+title: Windows 7 RC1
+wordpress_id: 254
+categories: Blog
+tags: OS Windows Windows 7 RC1
+---
+
+After hearing a few people mention Windows 7 RC1 over the last week, my curiosity was piqued.  I had heard and seen a bit about Windows 7 up until this point, however my busy schedule forced me to ignore the prospect of playing with it.  I'm now glad to say that this post is being written with the aid of Windows 7 RC1.  Not only that, but it is now the sole operating system on my main machine at home.  That's right folks, I blew Vista away yesterday without so much as a kiss goodbye and I haven't regretted it for a second.
+
+I don't plan on doing a lengthy review or how-to now (or probably ever), I just wanted to share how easy it was to move to Windows 7 from Vista.  First things first, you need to get yourself a copy of RC1.  To do that, visit [Microsoft's download page](http://www.microsoft.com/windows/windows-7/download.aspx) and follow the links to download it.  You'll have to choose between the 32 and 64-bit options (I chose 64-bit) and you will also be asked to sign-in with a Hotmail, Messenger, Passport or Live account to proceed.  Once you've jumped through the hoops, you'll be given a product key and can start the download.  At just over 3GB, you may be waiting a little while.  Once that's done, you're ready to install!
+<!-- more -->
+
+While I was reading up on this, it doesn't look like you can update any version of Windows other than Vista to Windows 7.  For anyone still on XP, or *shudders* something earlier, you're going to have to back everything up (should already be done =P), and then do a fresh install.  One thing I'm not sure about with the Vista upgrade path is whether you can go from 32-bit to 64-bit or vice versa, so you might want to check that if you're planning on swapping architectures.  Finally, if you want to play with Windows 7 in a VM or on an old machine before replacing your primary machine's OS, you'll be pleased to know that your key is good for up to 3 installs on 3 different machines.
+
+Now, assuming you're going the Vista upgrade path, things couldn't be any easier.  All you need to do is load the DVD while Vista is running, and tell it you want to upgrade.  Follow any instructions (I don't remember having to do much, if anything after the install started), and then just wait to be prompted for your product code.  Enter your code, and you're pretty much done.  Yes, it really is that simple.  I've been using this to do uni work all day, listen to music, surf the net, even play a game, and I haven't once had to reinstall or update anything.  It has all just worked.  Having said this, it is early days, and your mileage may vary, so the more cautious among you will probably want to back everything up before upgrading, and maybe play with Windows 7 in a VM before going all out.
+
+So long story short: Windows 7 looks to be a winner if RC1 is anything to go by.  For one thing the new interface is nicer than Vista's, especially with the funky new task bar.  Furthermore, those of you with dual monitors will be happy to see that [keyboard shortcuts](http://lifehacker.com/5132073/the-best-new-windows-7-keyboard-shortcuts) are now included to shift windows around and across monitors.  Finally, those of you who haven't experienced Windows Media Centre may be excited to try it out, as RC1 gives you the Ultimate edition of Windows 7.  After very little setup, I now have my media library and TV tuner all functioning in Media Centre, and all controlled with my old Media Centre remote.  Genius!
+
+The only thing I'm going to say at this point that is remotely negative, is that this isn't a giant leap forward from Vista.  It still feels a lot like Vista at times, however a lot of the sloppiness left over from cramming new interface ideas into XP's interface (a la Vista) is gone.  The whole experience feels a lot more consistent and it seems like some thought has really gone into the interface design.  Again I'm going to mention the new task bar, as this alone makes the upgrade worth it for me.
+
+That's enough rambling from me now.  All that's left to say is: Well done Microsoft.  Now don't balls it up before release, and don't slack off just because you've done a good job on this release because you're still no Apple =P.
+
+Andrew out.
