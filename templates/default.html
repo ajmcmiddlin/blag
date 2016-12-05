@@ -12,7 +12,7 @@
 </head>
 <body style="background-color: rgb(255, 255, 255)">
   <header>
-      <a href="{{site.baseurl}}/"><div class="home"></div></a>
+      <a href="/"><div class="home"></div></a>
   </header>
 
   <div id="content">
@@ -20,11 +20,8 @@
     $body$
   </div>
 
-<div class="theme" onclick="theme()" style="background-image: url({{site.baseurl}}/images/theme.svg);"></div>
+<div class="theme" onclick="theme()" style="background-image: url(/images/theme.svg);"></div>
 
-
-
-{% include analytics.html %}
-<script src="{{site.baseurl}}/js/theme.min.js"></script>
+<script src="/js/theme.min.js"></script>
 </body>
 </html>
