@@ -1,8 +1,6 @@
-<div class="info">
-    Posted on $date$
-    $if(author)$
-        by $author$
-    $endif$
-</div>
-
-$body$
+---
+layout: default
+---
+<h1 class="headline">{{page.title}}</h1>
+<div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span></div>
+{{content}}
